@@ -15,7 +15,7 @@ I enjoy turning raw data into clear, actionable insights using Python, SQL, Exce
 - **[Financial Data Dashboard](https://github.com/Nithyaaa08/FINANCIAL_DATA_ANALYSIS)** — Built an interactive Power BI dashboard with KPIs and DAX measures from cleaned financial data.
 
 ## 📫 Connect with me
-- LinkedIn: [nithya-m-bijua26880389](https://linkedin.com/in/nithya-m-bijua26880389)
+- LinkedIn: [nithya-m-biju](https://linkedin.com/in/nithyambiju )
 - Email: nithyambiju08@gmail.com
 
 Currently seeking **Junior Data Analyst / BI Analyst** opportunities in the UAE.
